@@ -4,7 +4,7 @@
 #directory="/gofin"
 
 # Define the new cluster names to add
-new_clusters=("al-ma-id-p-01" "al-ma-id-s-01")
+new_clusters=("al-test-id-p-01" "al-test-id-s-01")
 
 # Iterate over all YAML files in the directory
 for file_path in prome/alerts/gofin/*.yaml; do
