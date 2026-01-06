@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the new API URL
-new_api_url="https://katulampa-lark-app.gopayapi.com/notify"
+new_api_url="https://lark-app-test/notify"
 
 path="altmngr/routes/teams"
 
